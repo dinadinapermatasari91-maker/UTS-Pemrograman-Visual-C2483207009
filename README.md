@@ -42,7 +42,7 @@ Aplikasi dapat menghitung total harga, menerima pembayaran, menghitung uang kemb
 ![Tampilan Utama](screenshots/tampilan-utama.png)
 
 ### 2. Hasil Perhitungan Total
-![Hasil Total](screenshots/hasil-total.png)
+![Hasil Total](screenshots/hasil-total-nasi%20goreng.png)
 
 ### 3. Hasil Pembayaran dan Kembalian
 ![Hasil Pembayaran](screenshots/hasil-pembayaran.png)
