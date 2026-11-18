@@ -45,7 +45,7 @@ Aplikasi dapat menghitung total harga, menerima pembayaran, menghitung uang kemb
 ![Hasil Total](screenshots/hasil-total-nasi%20goreng.png)
 
 ### 3. Hasil Pembayaran dan Kembalian
-![Hasil Pembayaran](screenshots/hasil-pembayaran.png)
+![Hasil Pembayaran](screenshots/hasil-pembayaran-nasi%20goreng.png)
 
 ## Cara Menjalankan Aplikasi
 1. Buka Apache NetBeans IDE.
